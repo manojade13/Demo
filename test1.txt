@@ -1,0 +1,16 @@
+ Volume in drive D has no label.
+ Volume Serial Number is CA05-3C0E
+
+ Directory of D:\manoj workspace\practice1
+
+27-03-2020  23:15    <DIR>          .
+27-03-2020  23:15    <DIR>          ..
+27-03-2020  23:03               869 .classpath
+27-03-2020  22:54               385 .project
+27-03-2020  22:54    <DIR>          .settings
+27-03-2020  23:03    <DIR>          bin
+27-03-2020  22:54    <DIR>          Defects
+27-03-2020  22:54    <DIR>          src
+27-03-2020  23:15                 0 test1.txt
+               3 File(s)          1,254 bytes
+               6 Dir(s)  49,990,963,200 bytes free
